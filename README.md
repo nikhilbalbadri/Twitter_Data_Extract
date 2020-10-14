@@ -3,6 +3,8 @@ Extraction of Twitter data based on filter option using library Tweepy to hit Tw
 
 The Twitter_Extract file contains complete code for extracting tweets in timely manner, for a long period of time.
 
+A Sample of Twitter data extracted is also uploaded in the directory.
+
 It is mainly related to api.search method of Twitter API to filter tweets based on its content.
 
 by Default a filter mentioned in the code is to avoid retweets.
